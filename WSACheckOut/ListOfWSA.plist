@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>KOP</key>
+		<string>Canyon Overlook</string>
+		<key>WSA</key>
+		<string>North Stansbury</string>
+		<key>FieldOffice</key>
+		<string>Salt Lake City</string>
+		<key>Lat</key>
+		<real>40.60973</real>
+		<key>Long</key>
+		<real>-112.63152</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Granite Creek Campsite</string>
+		<key>WSA</key>
+		<string>Deep Creeks</string>
+		<key>FieldOffice</key>
+		<string>Salt Lake City</string>
+		<key>Lat</key>
+		<real>39.796325</real>
+		<key>Long</key>
+		<real>-113.89308</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Spring Creek Trail</string>
+		<key>WSA</key>
+		<string>Spring Creek</string>
+		<key>FieldOffice</key>
+		<string>Cedar City</string>
+		<key>Lat</key>
+		<real>37.507654</real>
+		<key>Long</key>
+		<real>-113.159667</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Reeds Cabin</string>
+		<key>WSA</key>
+		<string>White Rock Range</string>
+		<key>FieldOffice</key>
+		<string>Cedar City</string>
+		<key>Lat</key>
+		<real>38.164583</real>
+		<key>Long</key>
+		<real>-114.041661</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Intersection of North and South Coal Wash Wayside Exhibit</string>
+		<key>WSA</key>
+		<string>Sids Mountain</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>38.9828</real>
+		<key>Long</key>
+		<real>-110.8882</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Kiosk at Devils Racetrack</string>
+		<key>WSA</key>
+		<string>Sids Mountain</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>38.9508</real>
+		<key>Long</key>
+		<real>-110.8452</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Fixit Pass Wayside Exhibit</string>
+		<key>WSA</key>
+		<string>Sids Mountain</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>38.9348</real>
+		<key>Long</key>
+		<real>-110.779</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Sids Mountain Equestrian Trail</string>
+		<key>WSA</key>
+		<string>Sids Mountain</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>39.073</real>
+		<key>Long</key>
+		<real>-110.8343</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Top of Sids Mountain</string>
+		<key>WSA</key>
+		<string>Sids Mountain</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>39.0656</real>
+		<key>Long</key>
+		<real>-110.8343</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Cane Wash</string>
+		<key>WSA</key>
+		<string>Sids Mountain</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>39.044018</real>
+		<key>Long</key>
+		<real>-110.736247</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Red Canyon Entrance</string>
+		<key>WSA</key>
+		<string>Mexican Mountain</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>39.0609</real>
+		<key>Long</key>
+		<real>-110.5894</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Upper Black Boxes Trailhead</string>
+		<key>WSA</key>
+		<string>Mexican Mountain</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>39.012521</real>
+		<key>Long</key>
+		<real>-110.538123</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>The Gate</string>
+		<key>WSA</key>
+		<string>Mexican Mountain</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>39.012</real>
+		<key>Long</key>
+		<real>-110.4917</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Airstrip</string>
+		<key>WSA</key>
+		<string>Mexican Mountain</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>39.018246</real>
+		<key>Long</key>
+		<real>-110.451013</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Prickly Pear Flat</string>
+		<key>WSA</key>
+		<string>Mexican Mountain</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>39.111029</real>
+		<key>Long</key>
+		<real>-110.6285</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>3 Finger Canyon</string>
+		<key>WSA</key>
+		<string>San Rafael Reef</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>38.857558</real>
+		<key>Long</key>
+		<real>-110.463388</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Eardley Canyon</string>
+		<key>WSA</key>
+		<string>San Rafael Reef</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>38.785759</real>
+		<key>Long</key>
+		<real>-110.488535</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Ernie Wash</string>
+		<key>WSA</key>
+		<string>San Rafael Reef</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>38.7297</real>
+		<key>Long</key>
+		<real>-110.5336</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Iron Wash</string>
+		<key>WSA</key>
+		<string>San Rafael Reef</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>38.6986</real>
+		<key>Long</key>
+		<real>-110.5572</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Little Wild Horse and Bell Canyons Kiosk</string>
+		<key>WSA</key>
+		<string>Crack Canyon</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>38.582583</real>
+		<key>Long</key>
+		<real>-110.80232</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>North End of Little Wild Horse Canyon</string>
+		<key>WSA</key>
+		<string>Crack Canyon</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>38.611622</real>
+		<key>Long</key>
+		<real>-110.795101</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>North End of Bell Canyon</string>
+		<key>WSA</key>
+		<string>Crack Canyon</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>38.603967</real>
+		<key>Long</key>
+		<real>-110.817253</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Intersection of Ding and Dang Canyons</string>
+		<key>WSA</key>
+		<string>Crack Canyon</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>38.58</real>
+		<key>Long</key>
+		<real>-110.8357</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Chute Canyon</string>
+		<key>WSA</key>
+		<string>Crack Canyon</string>
+		<key>FieldOffice</key>
+		<string>Price</string>
+		<key>Lat</key>
+		<real>38.629032</real>
+		<key>Long</key>
+		<real>-110.763403</real>
+	</dict>
+</array>
+</plist>

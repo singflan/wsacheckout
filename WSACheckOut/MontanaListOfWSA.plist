@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>KOP</key>
+		<string>Garnet Ghost Town</string>
+		<key>WSA</key>
+		<string>Wales Creek</string>
+		<key>FieldOffice</key>
+		<string>Missoula</string>
+		<key>Lat</key>
+		<real>46.825591</real>
+		<key>Long</key>
+		<real>-113.339619</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Hoodoo Mountain Summit</string>
+		<key>WSA</key>
+		<string>Hoodoo Mountain</string>
+		<key>FieldOffice</key>
+		<string>Missoula</string>
+		<key>Lat</key>
+		<real>46.789288</real>
+		<key>Long</key>
+		<real>-112.901275</real>
+	</dict>
+	<dict>
+		<key>KOP</key>
+		<string>Rock Creek</string>
+		<key>WSA</key>
+		<string>Quigg West</string>
+		<key>FieldOffice</key>
+		<string>Missoula</string>
+		<key>Lat</key>
+		<real>46.381588</real>
+		<key>Long</key>
+		<real>-113.653647</real>
+	</dict>
+</array>
+</plist>

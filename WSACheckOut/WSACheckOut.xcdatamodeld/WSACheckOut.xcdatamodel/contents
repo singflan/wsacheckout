@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5064" systemVersion="13C64" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Cultural" representedClassName="Cultural" syncable="YES">
+        <attribute name="culturalDateTime" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="culturalDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="culturalGPSLatitude" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="culturalGPSLongitude" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="culturalObserved" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="culturalPhoto" optional="YES" attributeType="Binary" syncable="YES"/>
+        <relationship name="reported" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Report" inverseName="sawCultural" inverseEntity="Report" syncable="YES"/>
+    </entity>
+    <entity name="Disturbances" representedClassName="Disturbances" syncable="YES">
+        <attribute name="disturbDateTime" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="disturbDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="disturbGPSLatitude" optional="YES" attributeType="Double" syncable="YES"/>
+        <attribute name="disturbGPSLongitude" optional="YES" attributeType="Double" syncable="YES"/>
+        <attribute name="disturbImpact" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="disturbPhoto" optional="YES" attributeType="Binary" syncable="YES"/>
+        <relationship name="reported" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Report" inverseName="sawDisturbances" inverseEntity="Report" syncable="YES"/>
+    </entity>
+    <entity name="KOP" representedClassName="KOP" syncable="YES">
+        <attribute name="kopDateTime" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="kopDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="kopGPSLatitude" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="kopGPSLongitude" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="kopName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="kopPhotoE" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="kopPhotoN" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="kopPhotoS" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="kopPhotoW" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="kopStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="reported" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Report" inverseName="tookKOPs" inverseEntity="Report" syncable="YES"/>
+    </entity>
+    <entity name="PlantLife" representedClassName="PlantLife" syncable="YES">
+        <attribute name="plantDateTime" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="plantDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="plantGPSLatitude" optional="YES" attributeType="Double" syncable="YES"/>
+        <attribute name="plantGPSLongitude" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="plantObserved" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="plantPhoto" optional="YES" attributeType="Binary" syncable="YES"/>
+        <relationship name="reported" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Report" inverseName="sawPlantLife" inverseEntity="Report" syncable="YES"/>
+    </entity>
+    <entity name="Report" representedClassName="Report" syncable="YES">
+        <attribute name="areaMonitored" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="blmDistrict" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="culturalStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dateTimeStamp" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="disturbStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="handle4WD" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="monitorConducted" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notes" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="plantStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="reportStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="reportTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="visitorsStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wildlifeStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="workStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wsaName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="createdReport" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="User" inverseName="reports" inverseEntity="User" syncable="YES"/>
+        <relationship name="sawCultural" optional="YES" toMany="YES" deletionRule="Cascade" ordered="YES" destinationEntity="Cultural" inverseName="reported" inverseEntity="Cultural" syncable="YES"/>
+        <relationship name="sawDisturbances" optional="YES" toMany="YES" deletionRule="Cascade" ordered="YES" destinationEntity="Disturbances" inverseName="reported" inverseEntity="Disturbances" syncable="YES"/>
+        <relationship name="sawPlantLife" optional="YES" toMany="YES" deletionRule="Cascade" ordered="YES" destinationEntity="PlantLife" inverseName="reported" inverseEntity="PlantLife" syncable="YES"/>
+        <relationship name="sawVisitors" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="Visitors" inverseName="reported" inverseEntity="Visitors" syncable="YES"/>
+        <relationship name="sawWildLife" optional="YES" toMany="YES" deletionRule="Cascade" ordered="YES" destinationEntity="WildLife" inverseName="reported" inverseEntity="WildLife" syncable="YES"/>
+        <relationship name="sawWorkRequired" optional="YES" toMany="YES" deletionRule="Cascade" ordered="YES" destinationEntity="WorkRequired" inverseName="reported" inverseEntity="WorkRequired" syncable="YES"/>
+        <relationship name="tookKOPs" optional="YES" toMany="YES" deletionRule="Cascade" ordered="YES" destinationEntity="KOP" inverseName="reported" inverseEntity="KOP" syncable="YES"/>
+    </entity>
+    <entity name="User" representedClassName="User" syncable="YES">
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="photo" optional="YES" attributeType="Binary" syncable="YES"/>
+        <relationship name="reports" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Report" inverseName="createdReport" inverseEntity="Report" syncable="YES"/>
+    </entity>
+    <entity name="Visitors" representedClassName="Visitors" syncable="YES">
+        <attribute name="encounteredNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="encounteredYesNo" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="reported" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Report" inverseName="sawVisitors" inverseEntity="Report" syncable="YES"/>
+    </entity>
+    <entity name="WildLife" representedClassName="WildLife" syncable="YES">
+        <attribute name="animalDateTime" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="animalDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="animalGPSLatitude" optional="YES" attributeType="Double" syncable="YES"/>
+        <attribute name="animalGPSLongitude" optional="YES" attributeType="Double" syncable="YES"/>
+        <attribute name="animalObserved" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="animalPhoto" optional="YES" attributeType="Binary" syncable="YES"/>
+        <relationship name="reported" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Report" inverseName="sawWildLife" inverseEntity="Report" syncable="YES"/>
+    </entity>
+    <entity name="WorkRequired" representedClassName="WorkRequired" syncable="YES">
+        <attribute name="workDateTime" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="workGPSLatitude" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="workGPSLongitude" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="workPhoto" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="workRequired" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="reported" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Report" inverseName="sawWorkRequired" inverseEntity="Report" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Cultural" positionX="0" positionY="0" width="128" height="150"/>
+        <element name="Disturbances" positionX="0" positionY="0" width="128" height="150"/>
+        <element name="KOP" positionX="0" positionY="0" width="128" height="210"/>
+        <element name="PlantLife" positionX="0" positionY="0" width="128" height="150"/>
+        <element name="Report" positionX="0" positionY="0" width="128" height="390"/>
+        <element name="User" positionX="0" positionY="0" width="128" height="120"/>
+        <element name="Visitors" positionX="0" positionY="0" width="128" height="90"/>
+        <element name="WildLife" positionX="0" positionY="0" width="128" height="150"/>
+        <element name="WorkRequired" positionX="0" positionY="0" width="128" height="135"/>
+    </elements>
+</model>

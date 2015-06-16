@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Genus</key>
+		<string>Alicielia </string>
+		<key>Species</key>
+		<string>caespitosa </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Alicielia </string>
+		<key>Species</key>
+		<string>tenuis </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Aquilegia </string>
+		<key>Species</key>
+		<string>atwoodii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Aquilegia </string>
+		<key>Species</key>
+		<string>desolaticola </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Aquilegia </string>
+		<key>Species</key>
+		<string>scopulorum </string>
+		<key>Variety</key>
+		<string>goodrichii </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Arabis </string>
+		<key>Species</key>
+		<string>vivariensis </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Arabis </string>
+		<key>Species</key>
+		<string>goodrichii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Arabis </string>
+		<key>Species</key>
+		<string>vivariensis </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Astragalus </string>
+		<key>Species</key>
+		<string>ampullarius </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Astragalus </string>
+		<key>Species</key>
+		<string>anserinus </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Astragalus </string>
+		<key>Species</key>
+		<string>cronquistii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Astragalus </string>
+		<key>Species</key>
+		<string>equisolensis </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Astragalus </string>
+		<key>Species</key>
+		<string>hamiltonii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Astragalus </string>
+		<key>Species</key>
+		<string>iselyi </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Astragalus </string>
+		<key>Species</key>
+		<string>lentiginosus </string>
+		<key>Variety</key>
+		<string>pohlii </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Astragalus </string>
+		<key>Species</key>
+		<string>loanus </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Astragalus </string>
+		<key>Species</key>
+		<string>oophorus </string>
+		<key>Variety</key>
+		<string>lonchocalyx </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Astragalus </string>
+		<key>Species</key>
+		<string>pubentissimus </string>
+		<key>Variety</key>
+		<string>peabodianus </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Astragalus </string>
+		<key>Species</key>
+		<string>sabulosus </string>
+		<key>Variety</key>
+		<string>sabulosus </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Astragalus </string>
+		<key>Species</key>
+		<string>sabulosus </string>
+		<key>Variety</key>
+		<string>vehiculus </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Astragalus </string>
+		<key>Species</key>
+		<string>striatiflorus </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Astragalus </string>
+		<key>Species</key>
+		<string>welshii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Atriplex </string>
+		<key>Species</key>
+		<string>canescens </string>
+		<key>Variety</key>
+		<string>gigantea </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Camissonia </string>
+		<key>Species</key>
+		<string>bairdii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Camissonia </string>
+		<key>Species</key>
+		<string>bolanderi </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Camissonia </string>
+		<key>Species</key>
+		<string>gouldii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Cirsium </string>
+		<key>Species</key>
+		<string>virginensis </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Cleomella </string>
+		<key>Species</key>
+		<string>palmeriana </string>
+		<key>Variety</key>
+		<string>goodrichii </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Cryptantha </string>
+		<key>Species</key>
+		<string>barnebyi </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Cryptantha </string>
+		<key>Species</key>
+		<string>compacta </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Cryptantha </string>
+		<key>Species</key>
+		<string>grahamii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Crytantha </string>
+		<key>Species</key>
+		<string>creutzfeldtii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Cymopterus </string>
+		<key>Species</key>
+		<string>beckii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Dalea </string>
+		<key>Species</key>
+		<string>flavescens </string>
+		<key>Variety</key>
+		<string>epica </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Epilobium </string>
+		<key>Species</key>
+		<string>nevadense </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Erigeron </string>
+		<key>Species</key>
+		<string>kachinensis </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Erigeron </string>
+		<key>Species</key>
+		<string>maguire </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Erigeron </string>
+		<key>Species</key>
+		<string>untermannii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Erigeronum </string>
+		<key>Species</key>
+		<string>artificis </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Eriogonum </string>
+		<key>Species</key>
+		<string>brevicaule </string>
+		<key>Variety</key>
+		<string>mitophyllum </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Eriogonum </string>
+		<key>Species</key>
+		<string>corymbosum </string>
+		<key>Variety</key>
+		<string>cronquistii </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Eriogonum </string>
+		<key>Species</key>
+		<string>corymbosum </string>
+		<key>Variety</key>
+		<string>nilesii </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Eriogonum </string>
+		<key>Species</key>
+		<string>corymbosum </string>
+		<key>Variety</key>
+		<string>smithii </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Eriogonum </string>
+		<key>Species</key>
+		<string>nummulare </string>
+		<key>Variety</key>
+		<string>ammophilum </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Eriogonum </string>
+		<key>Species</key>
+		<string>pharnaceoides </string>
+		<key>Variety</key>
+		<string>cervinum </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Eriogonum </string>
+		<key>Species</key>
+		<string>phoenicium </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Eriogonum </string>
+		<key>Species</key>
+		<string>racemosum </string>
+		<key>Variety</key>
+		<string>nobilis </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Eriogonum </string>
+		<key>Species</key>
+		<string>spathulatum </string>
+		<key>Variety</key>
+		<string>kayeae </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Eriogonum </string>
+		<key>Species</key>
+		<string>soredium </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Euphorbia </string>
+		<key>Species</key>
+		<string>nephradenia </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Frasera </string>
+		<key>Species</key>
+		<string>ackermaniae </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Haplopappus </string>
+		<key>Species</key>
+		<string>crispus </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Ericameria </string>
+		<key>Species</key>
+		<string>lignumviridis </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Haplopappus </string>
+		<key>Species</key>
+		<string>zionis </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Hymenoxys </string>
+		<key>Species</key>
+		<string>lapidicola </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Ivesia </string>
+		<key>Species</key>
+		<string>shockleyi </string>
+		<key>Variety</key>
+		<string>ostleri </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Jamesia </string>
+		<key>Species</key>
+		<string>tetrapetala </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Lepidium </string>
+		<key>Species</key>
+		<string>huberi </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Lepidium </string>
+		<key>Species</key>
+		<string>ostleri </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Lomatium </string>
+		<key>Species</key>
+		<string>latilobum </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Lupinus </string>
+		<key>Species</key>
+		<string>caudatus </string>
+		<key>Variety</key>
+		<string>cutleri </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Lygodesmia </string>
+		<key>Species</key>
+		<string>grandiflora </string>
+		<key>Variety</key>
+		<string>doloresensis </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Lygodesmia </string>
+		<key>Species</key>
+		<string>grandiflora </string>
+		<key>Variety</key>
+		<string>entrada </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Mentzelia </string>
+		<key>Species</key>
+		<string>argillosa </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Mentzelia </string>
+		<key>Species</key>
+		<string>goodrichii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Mentzelia </string>
+		<key>Species</key>
+		<string>multicaulis </string>
+		<key>Variety</key>
+		<string>librina </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Mentzelia </string>
+		<key>Species</key>
+		<string>shultziorum </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Oenothera </string>
+		<key>Species</key>
+		<string>murdockii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Oreoxis </string>
+		<key>Species</key>
+		<string>trotteri </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Pediomelum </string>
+		<key>Species</key>
+		<string>aromaticum </string>
+		<key>Variety</key>
+		<string>barnebyi </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Pediomelum </string>
+		<key>Species</key>
+		<string>aromaticum </string>
+		<key>Variety</key>
+		<string>tuhyi </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Pediomelum </string>
+		<key>Species</key>
+		<string>epipsilum </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Penstemon </string>
+		<key>Species</key>
+		<string>acaulis </string>
+		<key>Variety</key>
+		<string>acaulis </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Penstemon </string>
+		<key>Species</key>
+		<string>angustifolius </string>
+		<key>Variety</key>
+		<string>dulcis </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Penstemon </string>
+		<key>Species</key>
+		<string>franklinii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Penstemon </string>
+		<key>Species</key>
+		<string>gibbensii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Penstemon </string>
+		<key>Species</key>
+		<string>goodrichii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Penstemon </string>
+		<key>Species</key>
+		<string>grahamii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Penstemon </string>
+		<key>Species</key>
+		<string>idahoensis </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Penstemon </string>
+		<key>Species</key>
+		<string>pinorum </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Penstemon </string>
+		<key>Species</key>
+		<string>scariosus </string>
+		<key>Variety</key>
+		<string>albifluvis </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Penstemon </string>
+		<key>Species</key>
+		<string>wardii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Perityle </string>
+		<key>Species</key>
+		<string>specuicola </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Petalonyx </string>
+		<key>Species</key>
+		<string>parryii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Phacelia </string>
+		<key>Species</key>
+		<string>argylensis </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Phacelia </string>
+		<key>Species</key>
+		<string>cronquistiana </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Phacelia </string>
+		<key>Species</key>
+		<string>indecora </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Phacelia </string>
+		<key>Species</key>
+		<string>pulchella </string>
+		<key>Variety</key>
+		<string>atwoodii </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Phacelia </string>
+		<key>Species</key>
+		<string>utahensis </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Potentilla </string>
+		<key>Species</key>
+		<string>cottamii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Primula </string>
+		<key>Species</key>
+		<string>cusickiana </string>
+		<key>Variety</key>
+		<string>domensis </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Psorothamnus </string>
+		<key>Species</key>
+		<string>polydenius </string>
+		<key>Variety</key>
+		<string>jonesii </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Salvia </string>
+		<key>Species</key>
+		<string>columbariae </string>
+		<key>Variety</key>
+		<string>argillacea </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Sphaeralcea </string>
+		<key>Species</key>
+		<string>caespitosa </string>
+		<key>Variety</key>
+		<string>caespitosa </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Sphaeralcea </string>
+		<key>Species</key>
+		<string>gierischii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Sphaeralcea </string>
+		<key>Species</key>
+		<string>grossulariifolia </string>
+		<key>Variety</key>
+		<string>fumariensis </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Sphaeralcea </string>
+		<key>Species</key>
+		<string>janeae </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Sphaeralcea </string>
+		<key>Species</key>
+		<string>psoraloides </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Swertia </string>
+		<key>Species</key>
+		<string>gypsicola </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Talinum </string>
+		<key>Species</key>
+		<string>thompsonii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Thelesperma </string>
+		<key>Species</key>
+		<string>caespitosa </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Thelesperma </string>
+		<key>Species</key>
+		<string>windhamii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Thelypodiopsis </string>
+		<key>Species</key>
+		<string>ambigua </string>
+		<key>Variety</key>
+		<string>erecta </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Townsendia </string>
+		<key>Species</key>
+		<string>beamanii </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Townsendia </string>
+		<key>Species</key>
+		<string>jonesii </string>
+		<key>Variety</key>
+		<string>lutea </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Townsendia </string>
+		<key>Species</key>
+		<string>strigosa </string>
+		<key>Variety</key>
+		<string>prolixa </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Trifolium </string>
+		<key>Species</key>
+		<string>variegatum </string>
+		<key>Variety</key>
+		<string>parunuweapensis </string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Trifolium </string>
+		<key>Species</key>
+		<string>friscanum </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Genus</key>
+		<string>Y ucca </string>
+		<key>Species</key>
+		<string>sterilis </string>
+		<key>Variety</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

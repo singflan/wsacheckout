@@ -1,0 +1,72 @@
+PODS:
+  - ACSimpleKeychain (0.3)
+  - AFNetworking (1.3.4)
+  - BDBSplitViewController (1.3.1)
+  - DALinedTextView (0.0.1)
+  - FXReachability (1.3.1)
+  - INTULocationManager (1.1.0)
+  - ISO8601DateFormatterValueTransformer (0.6.0):
+    - RKValueTransformers (~> 1.1.0)
+  - ObjectiveRecord (1.5.0):
+    - ObjectiveSugar
+  - ObjectiveSugar (1.1.0)
+  - RestKit (0.24.1):
+    - RestKit/Core (= 0.24.1)
+  - RestKit/Core (0.24.1):
+    - RestKit/CoreData
+    - RestKit/Network
+    - RestKit/ObjectMapping
+  - RestKit/CoreData (0.24.1):
+    - RestKit/ObjectMapping
+  - RestKit/Network (0.24.1):
+    - AFNetworking (~> 1.3.0)
+    - RestKit/ObjectMapping
+    - RestKit/Support
+    - SOCKit
+  - RestKit/ObjectMapping (0.24.1):
+    - ISO8601DateFormatterValueTransformer (~> 0.6.0)
+    - RestKit/Support
+    - RKValueTransformers (~> 1.1.0)
+  - RestKit/Support (0.24.1):
+    - TransitionKit (~> 2.1.0)
+  - RKValueTransformers (1.1.2)
+  - skpsmtpmessage (0.0.1)
+  - SOCKit (1.1)
+  - SVProgressHUD (HEAD based on 1.1.3)
+  - TransitionKit (2.1.1)
+  - UIImage+PDF (1.1.3)
+  - vfrReader (2.7.3)
+
+DEPENDENCIES:
+  - ACSimpleKeychain (~> 0.3)
+  - BDBSplitViewController (~> 1.3)
+  - DALinedTextView (~> 0.0.1)
+  - FXReachability (~> 1.3.1)
+  - INTULocationManager (~> 1.1.0)
+  - ObjectiveRecord (~> 1.5)
+  - RestKit (~> 0.24)
+  - skpsmtpmessage
+  - SVProgressHUD (HEAD)
+  - UIImage+PDF (~> 1.1)
+  - vfrReader (~> 2.7)
+
+SPEC CHECKSUMS:
+  ACSimpleKeychain: 5c2920e4122636f66e0bafe5aa1e46a66334cbfb
+  AFNetworking: cf8e418e16f0c9c7e5c3150d019a3c679d015018
+  BDBSplitViewController: 6284dc156aab7feb8d6aec07669190e11ae691f0
+  DALinedTextView: 88b8d7e46b2faefe9a26eee2ee82abd2dea93e39
+  FXReachability: 1d9a83617474f2a4e1b53c11a13ec4337428c126
+  INTULocationManager: f4b09f54b2f6897732e502e691331437b45939a9
+  ISO8601DateFormatterValueTransformer: 3ac3a721381697cab4e792d8049ce2f2e9ad3036
+  ObjectiveRecord: f290d17272e476b3c881300910e98284200c54b6
+  ObjectiveSugar: a6a25f23d657c19df0a0b972466d5b5ca9f5295c
+  RestKit: 1987b5efef289c6b27bd980714d6ca48d3871b78
+  RKValueTransformers: 66ac5e4f077fdbe3496e792d89eeff4c3eb67701
+  skpsmtpmessage: f6e913380c784dd8d4a9f83c8790a302445a5e05
+  SOCKit: c7376ac262bea9115b8f749358f762522a47d392
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  TransitionKit: 3a14b6acc7cf2d1dd3e454e24dbad1cfab9a1ef1
+  UIImage+PDF: b8352e731529d8704b8b1bb1c086884ab61cd550
+  vfrReader: f44a7d5ad67d0c6255f562923bd7f44e5f1125b7
+
+COCOAPODS: 0.37.0
